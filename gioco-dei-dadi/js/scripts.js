@@ -1,4 +1,5 @@
 // 1. Generare un numero random da 1  a 6, sia per il giocatore sia per il computer
+alert("Benvenuto nel Gioco dei dadi, premi OK e tira il tuo dado contro il computer.")
 
 var numero1 = Math.floor(Math.random() * 6) + 1;
 
